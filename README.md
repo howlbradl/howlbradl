@@ -1,7 +1,7 @@
 - @bradleyhh
 <hr>
 Relevant Work:<br>
-- Three years as a Research Assistant at Wayne State University helped me gain essential statistics, writing, and editing skills. During this time, I was an involved member of a small team. I helped write and edit an R03 grant, IRB amendment changes, FDA regulatory documents, peer-review scientific manuscripts, clinical brochures, clinical protocols, a biomarkers textbook chapter, and conference abstracts.<br><br>
+- Three years as a Research Assistant at Wayne State University helped me gain essential statistics, writing, and editing skills. During this time, I was an involved member of a small team. I helped write and edit an R03 grant, IRB amendment changes, FDA regulatory documents, peer-review scientific manuscripts, clinical brochures, clinical protocols, a biomarkers textbook chapter, and conference abstracts/posters.<br><br>
 Current Work:<br>
 - Currently, I am working as a freelance content writer for two writing vendors. I have experience working remotely on multiple projects at the same time. My work in the information services industry includes experience in HTML markup, CSS, and Javascript.<br>
 - For Straive, I primarily write accessibility alt-text descriptions. Topics of work including university physics, engineering, biochemistry, and geology textbooks.<br>
