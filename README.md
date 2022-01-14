@@ -1,13 +1,10 @@
-- @bradleyhh
-<hr>
-Relevant Work:<br>
-- Three years as a Research Assistant at Wayne State University helped me gain essential statistics, writing, and editing skills. During this time, I was an involved member of a small team. I helped write and edit an R03 grant, IRB amendment changes, FDA regulatory documents, peer-review scientific manuscripts, clinical brochures, clinical protocols, a biomarkers textbook chapter, and conference abstracts/posters.<br><br>
-Current Work:<br>
-- Currently, I am working as a freelance content writer for two writing vendors. I have experience working remotely on multiple projects at the same time. My work in the information services industry includes experience in HTML markup, CSS, and Javascript.<br>
-- For Straive, I primarily write accessibility alt-text descriptions. Topics of work including university physics, engineering, biochemistry, and geology textbooks.<br>
-- For ContentWriters, I have written B2B whitepapers, tech blogs, and video scripts.<br>
-<hr>
-
+<h1>@bradleyhh</h1>
+<h3>Current Work:</h3>
+Working as a freelance writer for two writing vendors. Experience often involves working remotely on multiple projects with different teams at the same time. Technical skills include HTML, markdown, git/github, CSS, and (some) Javascript.
+<ul>
+  <li>For ContentWriters, I have written B2B whitepapers for Merit Solutions, tech blogs for Codecademy, and FAQs pages for Udemy.</li>
+  <li>For Straive, I am an accessibility writer/editor of alt-text descriptions. I have contributed to textbooks on university physics, engineering, biochemistry, geology, etc.</li>
+</ul>
 <!---
 bradleyhh/bradleyhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
