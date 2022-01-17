@@ -1,4 +1,3 @@
-<h1>@bradleyhh</h1>
 <h3>Current Work:</h3>
 Working as a freelance writer for two writing vendors. Experience often involves working remotely on multiple projects with different teams at the same time. Technical skills include HTML, markdown, git/github, CSS, and (some) Javascript.
 <ul>
