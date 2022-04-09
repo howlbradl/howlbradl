@@ -3,7 +3,7 @@
     <p>Research Scientist/Engineer at the University of Washington using FreeSurfer to process MRI data.</p>
 
   <h3>Freelance:</h3>
-    <p>Working as a freelance writer for two writing vendors. Experience often involves working remotely in collaboration and autonomously. Technical skills include Git, Bash/CLI, Markdown, HTML, CSS, and (some) JavaScript.</p>
+    <p>Working as a freelance writer for two writing vendors. My technical skills include Git, Bash/CLI, Markdown, HTML, CSS, and (some) JavaScript.</p>
   <ul>
     <li>For ContentWriters, I have written B2B whitepapers for Merit Solutions, tech blogs for Codecademy, and FAQs pages for Udemy.</li>
     <li>For Straive, I am an accessibility writer/editor of alt-text descriptions. I have contributed to textbooks on university physics, engineering, biochemistry, geology, etc.</li>
