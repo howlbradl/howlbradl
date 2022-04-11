@@ -1,6 +1,6 @@
 <main>
   <h3>Current Work:</h3>
-    <p>Research Scientist/Engineer at the University of Washington using <link href="https://surfer.nmr.mgh.harvard.edu/fswiki">FreeSurfer</link> to process MRI data for the ACT Imaging and EVOLVE studies.</p>
+    <p>Research Scientist/Engineer at the University of Washington using <link href="https://surfer.nmr.mgh.harvard.edu/fswiki">FreeSurfer</link> for post-processing of MRIs for the ACT Imaging and EVOLVE studies.</p>
 
   <h3>Freelance:</h3>
     <p>Working as a freelance writer for two writing vendors. My technical skills include Git, Bash/CLI, Markdown, HTML, CSS, and (some) JavaScript.</p>
