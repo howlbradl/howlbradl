@@ -1,4 +1,4 @@
-##Current Work:
+## Current Work:
 Research Scientist/Engineer at the University of Washington using [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/fswiki) and other structural MRI processing tools for the [ACT Imaging study](https://actagingstudy.org/).
 
 <!---
